@@ -17,6 +17,8 @@ My name is **Dimas**, System engineer and enthusiast to learn every day.
 
 - 😄 Pronouns: **Dimasx**, **Dimasaurio**, **Dimaso**
 
+![Alt Text](https://i.pinimg.com/originals/8b/4b/fd/8b4bfdd0f162cd7d9fd7fdadb80cf875.gif)
+
 **languages and tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
